@@ -1,3 +1,6 @@
 # hello-world
 
-hello guys!
+Hi Humans!
+
+Hubot here, I like Node.js .
+I've had tacos.
